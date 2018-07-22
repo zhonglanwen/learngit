@@ -1,0 +1,15 @@
+C:\Users\jmw\Desktop\nspeex-82620\main\NSpeex\bin\Debug\NSpeex.dll
+C:\Users\jmw\Desktop\nspeex-82620\main\NSpeex\bin\Debug\NSpeex.pdb
+C:\Users\jmw\Desktop\nspeex-82620\main\NSpeex\obj\Debug\NSpeex.csprojResolveAssemblyReference.cache
+C:\Users\jmw\Desktop\nspeex-82620\main\NSpeex\obj\Debug\NSpeex.dll
+C:\Users\jmw\Desktop\nspeex-82620\main\NSpeex\obj\Debug\NSpeex.pdb
+C:\Users\jmw\Desktop\naudio_851060b2f12a\NSpeex\obj\Debug\NSpeex.csprojResolveAssemblyReference.cache
+C:\Users\jmw\Desktop\naudio_851060b2f12a\NSpeex\obj\Debug\NSpeex.dll
+C:\Users\jmw\Desktop\naudio_851060b2f12a\NSpeex\bin\Debug\NSpeex.dll
+C:\Users\jmw\Desktop\naudio_851060b2f12a\NSpeex\bin\Debug\NSpeex.pdb
+C:\Users\jmw\Desktop\naudio_851060b2f12a\NSpeex\obj\Debug\NSpeex.pdb
+F:\开发\naudio\naudio\NSpeex\bin\Debug\NSpeex.dll
+F:\开发\naudio\naudio\NSpeex\bin\Debug\NSpeex.pdb
+F:\开发\naudio\naudio\NSpeex\obj\Debug\NSpeex.csprojResolveAssemblyReference.cache
+F:\开发\naudio\naudio\NSpeex\obj\Debug\NSpeex.dll
+F:\开发\naudio\naudio\NSpeex\obj\Debug\NSpeex.pdb
